@@ -28,7 +28,7 @@ Line Chart of number of Flytipping incidents and their location from 2007 to 201
 •	Harsher penalties – rather than just fines, perhaps community service would be a more effective punishment, especially if the fly-tippers are made to clear up rubbish, and can see first-hand the trouble it causes.
 
 # Relevant Links
-* [Tableau](https://public.tableau.com/app/profile/chigozie.obianefo)
+* [Tableau Dashboard](https://public.tableau.com/app/profile/chigozie.obianefo)
 * [Personal Website](https://sites.google.com/d/1BHsTZf8S1AHWEt_NmcCPaJUV6EEDQtS-/p/1FExayNRK6kB5l4YAp6cFeKuXz-Q9z7PT/edit)
 * [Medium Article](https://medium.com/@goz-analytics)
 * [LinkedIn](https://www.linkedin.com/in/chigozie-obianefo/)
