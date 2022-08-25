@@ -29,7 +29,7 @@ Line Chart of number of Flytipping incidents and their location from 2007 to 201
 
 # Relevant Links
 * [Tableau Dashboard](https://public.tableau.com/app/profile/chigozie.obianefo)
-* [Personal Website](https://sites.google.com/d/1BHsTZf8S1AHWEt_NmcCPaJUV6EEDQtS-/p/1FExayNRK6kB5l4YAp6cFeKuXz-Q9z7PT/edit)
+* [Personal Website](https://www.goz-analytics.com/)
 * [Medium Article](https://medium.com/@goz-analytics)
 * [LinkedIn](https://www.linkedin.com/in/chigozie-obianefo/)
 * [Twitter](https://twitter.com/Chigozie_dydx)
